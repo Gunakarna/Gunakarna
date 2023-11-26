@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... full stack developer 
 - 🌱 I’m currently learning ... unlearned things
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@gunakarna insta
+- 📫 How to reach me ...@gunakarna in insta
 
 Let's make awesome 
 <!---
